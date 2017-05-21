@@ -1,0 +1,21 @@
+{
+  "name": "h5-quick-start",
+  "version": "1.0.0",
+  "description": "quick start develop webapp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "h5",
+    "webapp"
+  ],
+  "author": "gtan",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^2.4.1"
+  },
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
+}
