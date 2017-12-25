@@ -1,0 +1,50 @@
+body{
+    font-family: "Helvetica Neue";
+    margin: 0;
+    padding: 0;
+}
+body *{
+    /*防止横竖屏切换字体放大-禁止用户缩放字体*/
+    -webkit-text-size-adjust: 100%;
+    /*禁止用户选中文字*/
+    -webkit-user-select: none;
+}
+a,button,input{
+    /*tap的阴影设置0*/
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+}
+button,input{
+    /*取消button,input默认外观*/
+    -webkit-appearance: none;
+    border-radius: 0;
+}
+a{
+    text-decoration: none;
+}
+input{
+    outline: none;
+    vertical-align: middle;
+}
+ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+img{
+    vertical-align: middle;
+}
+h3,h4,p{
+    margin: 0;
+    padding: 0;
+}
+.left{
+    float: left;
+}
+.right{
+    float: right;
+}
+.clearfix:after{
+    content: '';
+    display: block;
+    clear: both;
+}

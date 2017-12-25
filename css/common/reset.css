@@ -193,20 +193,3 @@ input,select{
     background: rgb(174, 177, 179);
 }
 
-/*placeholder 样式*/
-/*::-webkit-input-placeholder { !* WebKit browsers *!*/
-/*color: #b7b7c7;*/
-/*font-size: 0.14rem;*/
-/*}*/
-/*:-moz-placeholder { !* Mozilla Firefox 4 to 18 *!*/
-/*color: #b7b7c7;*/
-/*font-size: 0.14rem;*/
-/*}*/
-/*::-moz-placeholder { !* Mozilla Firefox 19+ *!*/
-/*color: #b7b7c7;*/
-/*font-size: 0.14rem;*/
-/*}*/
-/*:-ms-input-placeholder { !* Internet Explorer 10+ *!*/
-/*color: #b7b7c7;*/
-/*font-size: 0.14rem;*/
-/*}*/
